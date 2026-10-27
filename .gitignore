@@ -1,0 +1,11 @@
+/hello
+/cmd/card/card
+/cmd/experiments/experiments
+/cmd/average/average
+/cmd/time-converter/converter
+/bin/
+.env
+.env.*
+!.env.example
+.DS_Store
+.vscode/
